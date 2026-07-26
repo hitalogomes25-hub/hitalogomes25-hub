@@ -1,126 +1,249 @@
 <p align="center">
-    <img src="assets/banner.png" alt="Hitalo Gomes Banner" width="100%">
+  <img src="assets/banner.png" alt="Hitalo Gomes Banner" width="100%">
 </p>
 
-<h1 align="center">Olá, eu sou Hitalo Gomes 👋</h1>
+<h1 align="center">Hitalo Gomes 👋</h1>
+
+<h3 align="center">
+Software Developer • Data Analyst • Software Engineering Student
+</h3>
 
 <p align="center">
-Software Developer • Data Analyst • Software Engineering Student
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Python+Developer;Data+Analyst;Software+Engineering;Building+Modern+Solutions;Always+Learning+New+Technologies"/>
+</p>
+
+<p align="center">
+
+<a href="mailto:hitalogomes25@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hitalogomes25-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-# 👋 Olá, eu sou Hitalo Gomes
-
-### Software Developer | Data Analyst | Software Engineering Student
+# 👨‍💻 Sobre mim
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós-graduação em Engenharia de Software**.
 
-Tenho experiência no desenvolvimento de aplicações em Python, análise de dados, automação de processos e construção de APIs. Neste GitHub compartilho projetos desenvolvidos para demonstrar minhas habilidades técnicas, boas práticas de programação e minha evolução como desenvolvedor.
+Tenho experiência com desenvolvimento de software, análise de dados, automação de processos e Business Intelligence.
 
-Atualmente busco oportunidades como **Desenvolvedor Python**, **Analista de Dados** ou **Engenheiro de Software**.
+Meu objetivo é desenvolver soluções modernas, escaláveis e bem estruturadas utilizando boas práticas de programação.
 
----
+Atualmente estou focado em:
 
-# 🛠️ Tecnologias
-
-## 🐍 Linguagens
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 📊 Dados e BI
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-## 🌐 Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-## 🗄️ Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## 🛠️ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- 🐍 Desenvolvimento Python
+- 📊 Análise de Dados
+- ⚙️ Engenharia de Software
+- 🌐 APIs REST
+- 📈 Business Intelligence
 
 ---
 
-# 🚀 Projetos em Destaque
+# 🚀 Atualmente estudando
 
-## 📊 TecPrime Data Generator
-
-Gerador de dados fictícios para testes, desenvolvimento de aplicações e projetos de Business Intelligence.
-
-**Stack:** Python • Pandas • OpenPyXL
-
-> 🚧 Status: Em desenvolvimento
-
----
-
-## ⚙️ TecPrime ETL Pipeline
-
-Pipeline de ETL para extração, transformação e carga de dados utilizando boas práticas de Engenharia de Dados.
-
-**Stack:** Python • Pandas • SQL
-
-> 📅 Status: Em planejamento
+- Python Avançado
+- Engenharia de Dados
+- FastAPI
+- Docker
+- SQL
+- PostgreSQL
+- Arquitetura de Software
+- Power BI
+- Git e GitHub
 
 ---
 
-## 🌐 TecPrime API
+# 🛠️ Stack Tecnológica
 
-API REST para gerenciamento e disponibilização de dados.
+## Linguagens
 
-**Stack:** FastAPI • PostgreSQL
+<p>
 
-> 📅 Status: Em planejamento
+<img src="https://skillicons.dev/icons?i=python"/>
 
----
+<img src="https://skillicons.dev/icons?i=mysql"/>
 
-## 📈 TecPrime Dashboard
-
-Dashboard analítico para visualização de indicadores e métricas de negócio.
-
-**Stack:** Power BI • DAX • Power Query
-
-> 📅 Status: Em planejamento
+</p>
 
 ---
 
-# 🎓 Formação
+## Backend
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
-- 🎓 Pós-graduação em Engenharia de Software *(Em andamento)*
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=fastapi"/>
 
-# 📫 Contato
+<img src="https://skillicons.dev/icons?i=flask"/>
 
-📍 Espírito Santo - Brasil
-
-📧 **hitalogomes25@gmail.com**
-
-📱 **(27) 99688-1511**
-
-💼 LinkedIn: *(Adicionar link)*
-
-🌐 Portfólio: *(Adicionar link do repositório `tecprime-portfolio`)*
+</p>
 
 ---
 
-<div align="center">
+## Banco de Dados
 
-**Obrigado pela visita!**
+<p>
 
-Estou sempre estudando, desenvolvendo novos projetos e aprimorando minhas habilidades para criar soluções eficientes e de qualidade.
+<img src="https://skillicons.dev/icons?i=postgres"/>
 
-⭐ Se algum projeto chamar sua atenção, fique à vontade para explorá-lo.
+</p>
 
-</div>
+---
+
+## Data Analytics
+
+<p>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+---
+
+## Ferramentas
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=hitalogomes25-hub&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitalogomes25-hub&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hitalogomes25-hub&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 Projetos
+
+### 📊 TecPrime Data Generator
+
+Gerador de dados fictícios para testes, dashboards e Business Intelligence.
+
+**Stack**
+
+Python • Pandas • OpenPyXL
+
+---
+
+### ⚙️ TecPrime ETL Pipeline
+
+Pipeline de Engenharia de Dados utilizando Python.
+
+**Stack**
+
+Python • SQL • PostgreSQL • Pandas
+
+---
+
+### 🌐 TecPrime API
+
+API REST moderna desenvolvida com FastAPI.
+
+**Stack**
+
+FastAPI • PostgreSQL
+
+---
+
+### 📈 TecPrime Dashboard
+
+Dashboard profissional para análise de indicadores.
+
+**Stack**
+
+Power BI • DAX • Power Query
+
+---
+
+# 📚 Formação
+
+🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas**
+
+🎓 Pós-graduação em **Engenharia de Software** *(Em andamento)*
+
+---
+
+# 🎯 Objetivos
+
+✔ Desenvolver aplicações escaláveis
+
+✔ Criar APIs modernas
+
+✔ Engenharia de Dados
+
+✔ Business Intelligence
+
+✔ Desenvolvimento Backend
+
+✔ Aprender continuamente novas tecnologias
+
+---
+
+# 📈 Contribuições
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hitalogomes25-hub&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌎 Onde me encontrar
+
+<p align="center">
+
+<a href="mailto:hitalogomes25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hitalo-gomes-518648274/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hitalogomes25-hub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### 💙 Obrigado pela visita!
+
+*"Code. Learn. Build. Improve."*
+
+⭐ Se algum projeto chamou sua atenção, fique à vontade para explorá-lo ou entrar em contato.
+
+</p>
