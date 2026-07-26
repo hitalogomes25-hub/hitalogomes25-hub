@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Olá, eu sou Hitalo Gomes
 
-<!--
-**hitalogomes25-hub/hitalogomes25-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer | Data Engineer | Python Developer
 
-Here are some ideas to get you started:
+Bem-vindo ao meu perfil no GitHub!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente desenvolvo projetos voltados para:
+
+- 🐍 Python
+- 📊 Business Intelligence
+- 🗄 SQL
+- ⚙ Automação
+- 📈 Engenharia de Dados
+
+---
+
+## 🚀 Em construção
+
+Este perfil está sendo desenvolvido para apresentar meus projetos profissionais e meu portfólio.
+
+Em breve você encontrará:
+
+- Projetos Python
+- Dashboards Power BI
+- APIs
+- ETL
+- Automações
+- Documentações técnicas
+
+---
+
+**Criador da TECPRIME SOLUÇÕES**
