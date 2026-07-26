@@ -1,3 +1,15 @@
+<p align="center">
+    <img src="assets/banner.png" alt="Hitalo Gomes Banner" width="100%">
+</p>
+
+<h1 align="center">Olá, eu sou Hitalo Gomes 👋</h1>
+
+<p align="center">
+Software Developer • Data Analyst • Software Engineering Student
+</p>
+
+---
+
 # 👋 Olá, eu sou Hitalo Gomes
 
 ### Software Developer | Data Analyst | Software Engineering Student
