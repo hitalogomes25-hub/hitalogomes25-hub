@@ -1,58 +1,7 @@
-<h1 align="center">Olá 👋, eu sou Hitalo Gomes</h1>
+# Olá! 👋 Eu sou Hitalo Gomes
 
-<h3 align="center">
-Software Engineer • Data Engineer • Python Developer
-</h3>
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente curso **Pós-graduação em Engenharia de Software**.
 
-<p align="center">
-Criador da <strong>TECPRIME SOLUÇÕES</strong>
-</p>
+Tenho interesse em desenvolvimento de software, análise de dados e automação de processos utilizando Python. Neste GitHub compartilho projetos desenvolvidos para demonstrar minhas habilidades técnicas, minha evolução como desenvolvedor e as soluções que construo durante meus estudos e projetos pessoais.
 
----
-
-# 🚀 Sobre mim
-
-Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente formado **Pós-graduação em Engenharia de Software**.
-
-Desenvolvo soluções utilizando Python, SQL e Power BI, com foco em Engenharia de Dados, Business Intelligence, automação e desenvolvimento de software.
-
----
-
-# 🛠 Tecnologias
-
-- Python
-- SQL
-- Power BI
-- Git
-- GitHub
-- APIs REST
-- Business Intelligence
-- Engenharia de Dados
-
----
-
-# 📂 Projetos
-
-Em breve estarão disponíveis:
-
-- TecPrime Data Generator
-- TecPrime Portfolio
-- TecPrime ETL
-- TecPrime Dashboard
-- TecPrime API
-
----
-
-# 📚 Atualmente estudando
-
-- Engenharia de Software
-- Arquitetura de Software
-- Data Engineering
-- Cloud Computing
-
----
-
-# 📫 Contato
-
-- LinkedIn *(em breve)*
-- GitHub
+Meu objetivo é atuar como Desenvolvedor Python, Analista de Dados ou Engenheiro de Software, contribuindo com soluções bem estruturadas, escaláveis e de qualidade.
