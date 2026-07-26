@@ -18,7 +18,7 @@ Software Developer • Data Analyst • Software Engineering Student
 <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/hitalo-gomes-518648274/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -152,6 +152,7 @@ Gerador de dados fictícios para testes, dashboards e Business Intelligence.
 
 Python • Pandas • OpenPyXL
 
+https://github.com/hitalogomes25-hub/tecprime-data-generator
 ---
 
 ### ⚙️ TecPrime ETL Pipeline
