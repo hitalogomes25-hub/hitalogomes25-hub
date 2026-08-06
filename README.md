@@ -164,7 +164,7 @@ Pipeline de Engenharia de Dados utilizando Python.
 
 Python • SQL • PostgreSQL • Pandas
 
-[[https://github.com/hitalogomes25-hub](https://github.com/hitalogomes25-hub/tecprime-etl-pipeline)](https://github.com/hitalogomes25-hub/tecprime-data-generator)
+https://github.com/hitalogomes25-hub/tecprime-etl-pipeline
 
 ---
 
